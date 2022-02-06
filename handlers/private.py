@@ -42,7 +42,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 𝐂𝐥𝐢𝐜𝐤 ☑️  𝐑𝐞𝐩𝐨 🌍 💞", url=f"https://github.com/CandyMusic/CandyPrivateMusic")
+                        "💥 𝐂𝐥𝐢𝐜𝐤 𝐑𝐞𝐩𝐨 💞", url=f"https://github.com/CandyMusic/candyMusicPlayer")
                 ]
             ]
         ),
